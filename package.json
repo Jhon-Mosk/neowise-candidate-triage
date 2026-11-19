@@ -1,0 +1,12 @@
+{
+  "name": "neowise-candidate-triage",
+  "private": true,
+  "description": "AI-помощник для входящих заявок — тестовое Neowise",
+  "engines": {
+    "node": ">=20"
+  },
+  "scripts": {
+    "start": "node server.mjs",
+    "test": "node --test"
+  }
+}
